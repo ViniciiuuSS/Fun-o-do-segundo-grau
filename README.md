@@ -1,2 +1,2 @@
 # Fun-o-do-segundo-grau
-Codigo para calcular o a formula de delta e bhaskara.
+Codigo para calcular o a formula de delta e bhaskara No VISUALG!
